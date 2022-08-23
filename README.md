@@ -9,6 +9,8 @@ Report:
 * 3rd Class passengers had survived until help services reached the spot.
 * Men survived more than women.
 
+Visualization link - [Tableau - Titanic Survival Analysis](https://public.tableau.com/app/profile/sowmya.sree.b/viz/TitanicSurvivalAnalysis_16612653638830/Dashboard1)
+
 
 ![Screenshot (467)](https://user-images.githubusercontent.com/78978556/186201131-1336762e-b463-4e7f-ac87-5db122c3d6d3.png)
 
